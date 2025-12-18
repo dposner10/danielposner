@@ -7,7 +7,8 @@
             "namespace": "android_app",
             "package_name": "de.posnerapps.workout",
             "sha256_cert_fingerprints": [
-                "70:F7:FF:FF:1C:F4:C2:59:E2:16:37:EB:81:26:55:95:7A:A1:56:72:3D:AE:36:7D:25:9E:8E:3C:D1:F0:47:CC"
+                "70:F7:FF:FF:1C:F4:C2:59:E2:16:37:EB:81:26:55:95:7A:A1:56:72:3D:AE:36:7D:25:9E:8E:3C:D1:F0:47:CC",
+                "9B:15:0D:B8:8A:E0:CC:D4:7A:94:62:8F:70:CC:61:08:D9:DE:23:ED:36:12:6C:61:E7:98:FA:2D:AD:69:78:DD"
             ]
         }
     }
